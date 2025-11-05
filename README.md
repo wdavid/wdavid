@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy David Hernández  
 
-<!--
-**wdavid/wdavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desarrollador Fullstack en formación**  
+🚀 Apasionado por el código limpio, el aprendizaje constante y la creación de proyectos útiles.  
+🌎 Desde **San Antonio Abad, San Salvador**  
+📚 Estudiante de Ingeniería en Computación | UCA  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Tecnologías y herramientas
+🟨 JavaScript | ⚙️ TypeScript | ☕ Java  
+⚡ Node.js | 🌐 React | 🗄️ MySQL | 🧩 Git & GitHub  
+
+---
+
+### 📂 Proyectos destacados
+🔹 [**elDigitalService**](https://github.com/wdavid/elDigitalService) — Plataforma en JavaScript para servicios digitales.  
+🔹 [**mercaducadocean**](https://github.com/wdavid/mercaducadocean) — Aplicación en Java tipo marketplace.  
+🔹 [**pokemarket**](https://github.com/wdavid/pokemarket) — Proyecto en TypeScript con temática Pokémon.  
+
+---
+
+### 📊 Actividad reciente
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wdavid&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdavid&layout=compact&theme=tokyonight)
+
+---
+
+### 🌐 Conecta conmigo
+📧 [00135222@uca.edu.sv](mailto:00135222@uca.edu.sv)  
+💼 [Facebook](https://www.facebook.com/wdavidhdz) | [Instagram](https://www.instagram.com/davidhernmtz/)  
+
+---
+
+> _"El código no solo resuelve problemas, también crea oportunidades."_ ✨
+

@@ -69,6 +69,11 @@
 
 ---
 
+### 📊 Actividad reciente
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wdavid&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdavid&layout=compact&theme=tokyonight)
+
 ## 📬 Contacto
 
 📧 **Email personal:** 00135222@uca.edu.sv  

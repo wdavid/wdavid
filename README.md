@@ -1,37 +1,85 @@
 # 👋 ¡Hola! Soy David Hernández  
 
 💻 **Desarrollador Fullstack en formación**  
-🚀 Apasionado por el código limpio, el aprendizaje constante y la creación de proyectos útiles.  
-🌎 Desde **San Antonio Abad, San Salvador**  
-📚 Estudiante de Ingeniería en Computación | UCA  
+🚀 Me apasiona el código limpio, la arquitectura de software y crear proyectos que resuelvan problemas reales.  
+🌎 San Antonio Abad, San Salvador  
+🎓 Estudiante de Ingeniería en Computación en la **UCA**  
 
 ---
 
-### 🧠 Tecnologías y herramientas
-🟨 JavaScript | ⚙️ TypeScript | ☕ Java  
-⚡ Node.js | 🌐 React | 🗄️ MySQL | 🧩 Git & GitHub  
+## 🧠 Tecnologías y herramientas
+
+### 🟦 Lenguajes de programación  
+- JavaScript  
+- TypeScript  
+- Java  
+- SQL  
+
+### ⚙️ Frameworks y librerías  
+- React  
+- Node.js  
+- Express  
+- Next.js  
+- TailwindCSS  
+
+### 🛠 IDEs y herramientas  
+- Visual Studio Code  
+- IntelliJ IDEA  
+- Postman  
+- Figma  
+
+### 🗄 Bases de datos  
+- MySQL  
+- PostgreSQL  
+
+### 🔁 Control de versiones  
+- Git  
+- GitHub  
+- GitLab  
+
+### 🐧 Otras tecnologías  
+- Docker  
+- Linux  
+- APIs REST  
+- JSON Server  
+- Strapi (en aprendizaje)  
 
 ---
 
-### 📂 Proyectos destacados
-🔹 [**elDigitalService**](https://github.com/wdavid/elDigitalService) — Plataforma en JavaScript para servicios digitales.  
-🔹 [**mercaducadocean**](https://github.com/wdavid/mercaducadocean) — Aplicación en Java tipo marketplace.  
-🔹 [**pokemarket**](https://github.com/wdavid/pokemarket) — Proyecto en TypeScript con temática Pokémon.  
+## 🎓 Cursos y certificaciones
+
+- Fundamentos de Programación – UCA  
+- Programación Orientada a Objetos – UCA  
+- Base de Datos I – UCA  
+- Git & GitHub – Práctico  
+- Desarrollo Web con JavaScript  
+- Introducción a Linux (autoaprendizaje)  
 
 ---
 
-### 📊 Actividad reciente
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wdavid&show_icons=true&theme=tokyonight)
+## 📂 Proyectos destacados
+🔹 **elDigitalService** — Plataforma para servicios digitales  
+🔗 https://github.com/wdavid/elDigitalService  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdavid&layout=compact&theme=tokyonight)
+🔹 **mercaducadocean** — Marketplace en Java  
+🔗 https://github.com/wdavid/mercaducadocean  
+
+🔹 **pokemarket** — E-commerce Pokémon en TypeScript  
+🔗 https://github.com/wdavid/pokemarket  
 
 ---
 
-### 🌐 Conecta conmigo
-📧 [00135222@uca.edu.sv](mailto:00135222@uca.edu.sv)  
-💼 [Facebook](https://www.facebook.com/wdavidhdz) | [Instagram](https://www.instagram.com/davidhernmtz/)  
+## 📬 Contacto
+
+📧 **Email personal:** 00135222@uca.edu.sv  
+📧 **Email institucional:** *(agrega tu correo institucional si es distinto)*  
+🔗 **GitHub personal:** https://github.com/wdavid  
+🔗 **GitHub institucional:** *(si aplica)*  
+🔗 **LinkedIn:** https://www.linkedin.com/in/tu-perfil  
+📱 **Redes sociales:**  
+- Facebook: https://www.facebook.com/wdavidhdz  
+- Instagram: https://www.instagram.com/davidhernmtz  
 
 ---
 
 > _"El código no solo resuelve problemas, también crea oportunidades."_ ✨
-
